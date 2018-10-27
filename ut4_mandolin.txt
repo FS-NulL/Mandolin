@@ -1,0 +1,85 @@
+================================================================================
+* Urban Terror Level * 
+--------------------------------------------------------------------------------
+Title			: Mandolin (4.0)
+Author			: Jonathan "$NulL" Norton
+Date			: 14 Mar 2007
+
+
+--------------------------------------------------------------------------------
+* Level Description *
+--------------------------------------------------------------------------------
+Beach / Town / Factory.
+
+--------------------------------------------------------------------------------
+Single Player		: No
+Deathmatch (FFA)	: Yes
+Team Deathmatch		: Yes
+Team Survivor 		: Yes
+Capture and Hold	: Yes
+Follow the leader	: Yes
+Capture the flag	: Yes
+Suggested player load	: 6-14(+?)
+New Textures		: Yes
+New Sounds		: Yes
+New Models		: Yes
+
+--------------------------------------------------------------------------------
+* Construction *
+--------------------------------------------------------------------------------
+Map Base		: None
+Prefabs used		: None
+Mapobjects used		: LT1's (www.blackrayne.net)
+				Tv+
+				Lights
+				Barrels
+				Propane Tanks
+				QBlights
+				Couches
+				Tires
+				Maybe More...	
+
+Editor used		: Q3Radiant build 202b
+			  GTKRadiant 1.4
+			  3DSMax
+Other utilities used	: Photoshop, Q3Map2(2.5.16), q3map2toolz, Notepad, Urban Terror BSP, BspShoe.
+Compile machine		: AMD 3000XP 1024Mb Ram
+Compile time		: BSP  : <  1 Minute
+			: VIS  : ~ 15 minutes
+			: LIGHT: ~ 20 Minutes
+Compile Switches        : BSP -meta
+			  VIS -saveprt
+			  LIGHT -bounce 99 -fast -gamma 2 -patchshadows -samples 2 -shade -v
+
+--------------------------------------------------------------------------------
+* OTHER LEVELS BY $NulL *
+--------------------------------------------------------------------------------
+ut_subterra
+ut_subterra2
+ut_canyon
+
+--------------------------------------------------------------------------------
+* CREDITS *
+--------------------------------------------------------------------------------
+evil layer	: Textures
+mayang		: Textures
+sweetnutz	: Textures
+sock		: Textures
+id		: For the Quake series
+SID/FS		: For this Most excelent mod
+ydnar		: Q3map2 rocks our little world + Textures
+LT1		: Models galore at a reasonable price 
+BerneyBoy       : Photorealistic Texture Pack.
+#urbanmappers   : <3
+
+--------------------------------------------------------------------------------
+* COPYRIGHT / PERMISSIONS *
+--------------------------------------------------------------------------------
+Authors MAY NOT use this level as a base to build additional levels.
+This map MAY NOT be sold, or in any other way turn into profit for any other
+person than the author. This map MAY be distributed on any media as long as this
+media is distributed freely without anyone having to pay for it.
+This level is designed for the Quake 3 Total Conversion "Urban Terror" and is 
+not to be used, replicated or edited for any other Mod, Total Conversion, Game 
+or Game Engine.
+================================================================================
